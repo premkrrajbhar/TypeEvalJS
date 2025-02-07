@@ -4,7 +4,7 @@
 
 ## 🔎 Demo Screenshot
 
-![Screenshot of Project](assets/screenshot.png)
+![Screenshot of Project](assets/screenshot/screenshot.png)
 
 ## 🔗 Live Demo
 
