@@ -7,7 +7,7 @@ checkDataType.addEventListener("click", () => {
   let enterData = enterDataType.value;
 
   if (enterData == "") {
-    alert("Please enter a data");
+    displayDataType.textContent = "Please enter a data";
     return;
   }
 
