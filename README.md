@@ -28,6 +28,23 @@ Check out the app live here: **[TypeEvalJS](https://premkrrajbhar.github.io/Type
 - **CSS**: For styling the interface.
 - **JavaScript**: For logic and functionality.
 
+## 📂 Project Structure
+
+```
+├── README.md
+├── assets/
+│   ├── favicon/
+│   │   └── typeevaljs-favicon.png
+│   └── screenshot/
+│       └── screenshot.png
+├── css/
+│   └── style.css
+├── index.html
+└── script/
+    └── script.js
+
+```
+
 ## 📥 Installation
 
 - Step1. Clone this repository to your local machine:
